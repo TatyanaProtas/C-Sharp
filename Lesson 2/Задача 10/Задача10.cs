@@ -23,7 +23,6 @@ int ReadInt(string message)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-// Функция вывода цифры стоящей в середине трехзначногно числа.
 int InCenter(int a)
 {
     
