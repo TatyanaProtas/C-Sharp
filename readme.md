@@ -1,7 +1,7 @@
 # Знакомство с языками программирования
 
 - [Lesson 1](#lesson-1)
-- [Lesson 2](https://github.com/TatyanaProtas/C-Sharp/tree/main/Lesson%202)
+- [Lesson 2](#lesson-2)
 - [Lesson 3](https://github.com/TatyanaProtas/C-Sharp/tree/main/Lesson%203)
 - [Lesson 4](https://github.com/TatyanaProtas/C-Sharp/tree/main/Lesson%204)
 - [Lesson 5](https://github.com/TatyanaProtas/C-Sharp/tree/main/Lesson%205)
