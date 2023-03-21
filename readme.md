@@ -293,7 +293,7 @@ m = 3, n = 4.
 18 20  
 15 18 
 
-[решение]()
+[решение](https://github.com/TatyanaProtas/C-Sharp/blob/main/Lesson%208/Задача%2058/задача58.cs)
 
 
 ## Задача 60.
